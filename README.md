@@ -19,3 +19,8 @@ $ npm install
 ```bash
 $ npm run dev
 ```
+
+## Port
+```bash
+$ http://localhost:3000/
+```
