@@ -1,6 +1,6 @@
 # File Explorer Project
 
-Dự án được xây dựng mô phỏng theo VSC
+Dự án được xây dựng cây thư mục mô phỏng theo VSC
 
 Các công nghệ được sử dụng
 - React
